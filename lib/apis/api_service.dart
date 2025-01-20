@@ -1,3 +1,3 @@
 class ApiService {
-  static String apiKey = 'AIzaSyD20g6fFUCHGQ6uGcPvZ3-FTS64ud_ePE8';
+  static String apiKey = 'Gemini_API_Key';
 }
